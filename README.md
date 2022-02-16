@@ -19,7 +19,7 @@ Program).
 ## Summary: 
 
 When done with the analysis, we found out that over 90,000+ roles in the company
-will become vacant in the coming years, and also a very small number of employees are eligible to join
+will become vacant in the coming years, and also a very small number of 1549 employees are eligible to join
 the mentor program.  Now is the time for Pewlett-Hackard to start hiring highly educated
 people to start training and to be able and ready to fill positions.
 
