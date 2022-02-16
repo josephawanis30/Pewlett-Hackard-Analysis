@@ -8,7 +8,7 @@ Program).
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-
+o	Created a table to get a list of retiring employees by their title.
 
 
 
@@ -18,7 +18,7 @@ Program).
 
 ## Summary: 
 
-When done with the analysis, we found out that over 90,000+ roles in the company
+When done with the analysis, we found out that over 90,398 roles in the company
 will become vacant in the coming years, and also a very small number of 1549 employees are eligible to join
 the mentor program.  Now is the time for Pewlett-Hackard to start hiring highly educated
 people to start training and to be able and ready to fill positions.
