@@ -23,6 +23,7 @@ o	Created a table to get a list of retiring employees by their title.
 ![image](https://user-images.githubusercontent.com/94503395/154779917-8485e0a9-aca4-4068-9ae2-9c688765736e.png)
 
 #SELECT * FROM mentorship_eligibility
+A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 
 ![image](https://user-images.githubusercontent.com/94503395/154780025-a4e08566-5f80-4d0e-8a83-662ed9ef2ca4.png)
 
