@@ -9,13 +9,17 @@ Program).
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 o	Created a table to get a list of retiring employees by their title.
+#SELECT * FROM retirement_titles
 
 ![image](https://user-images.githubusercontent.com/94503395/154779745-aea269bf-cf8c-4822-98cf-450e41964f1b.png)
 
+#SELECT * FROM unique_titles
 ![image](https://user-images.githubusercontent.com/94503395/154779812-9a872cb8-03b4-4bad-b5a2-f41dec50b3ac.png)
 
+#SELECT * FROM retiring_titles
 ![image](https://user-images.githubusercontent.com/94503395/154779917-8485e0a9-aca4-4068-9ae2-9c688765736e.png)
 
+#SELECT * FROM mentorship_eligibility
 ![image](https://user-images.githubusercontent.com/94503395/154780025-a4e08566-5f80-4d0e-8a83-662ed9ef2ca4.png)
 
 
