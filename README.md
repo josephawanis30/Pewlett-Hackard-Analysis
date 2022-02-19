@@ -28,6 +28,7 @@ A query is written and executed to create a Mentorship Eligibility table for cur
 ![image](https://user-images.githubusercontent.com/94503395/154780025-a4e08566-5f80-4d0e-8a83-662ed9ef2ca4.png)
 
 
+![EmployeeDB](https://user-images.githubusercontent.com/94503395/154790196-d3e1a275-d2e7-4992-a458-18e0a8f9639c.png)
 
 
 ## Summary: 
